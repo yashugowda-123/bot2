@@ -7,7 +7,7 @@ import re
 import json
 import openai
 from datetime import datetime
-import plotly.express as px
+import plotly as px
 import plotly.graph_objects as go
 from typing import List, Dict, Any
 import spacy
@@ -657,6 +657,7 @@ Date: {datetime.now().strftime('%B %d, %Y')}
 
 if _name_ == "_main_":
     main()
+
 
 
 
