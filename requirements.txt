@@ -8,7 +8,7 @@ numpy==1.24.3
 
 # Document Processing
 PyPDF2==3.0.1
-python-docx==0.8.11
+
 
 # Natural Language Processing
 spacy==3.7.2
@@ -118,3 +118,4 @@ aiohttp==3.9.1
 
 # Environment Detection
 platform==1.0.8
+
