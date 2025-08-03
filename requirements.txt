@@ -2,7 +2,7 @@ streamlit
 PyPDF2
 pandas
 openai
-docx
+document 
 io
 re
 json
@@ -15,5 +15,6 @@ tfidfvecto
 KMeans
 np
 random
+
 
 
