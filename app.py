@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import PyPDF2
- import python-docx
 import io
 import re
 import json
@@ -657,6 +656,7 @@ Date: {datetime.now().strftime('%B %d, %Y')}
 
 if _name_ == "_main_":
     main()
+
 
 
 
